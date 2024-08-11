@@ -6,11 +6,6 @@
 * ![Instagram](https://www.instagram.com/ig_madhavrathod?igsh=MWpwZXpyNHpvOG45)
 * ![LinkedIn](https://www.linkedin.com/in/madhav-rathod-520a19137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## My Social Media
-
-[![Instagram](https://www.instagram.com/ig_madhavrathod?igsh=MWpwZXpyNHpvOG45) 1 
-[![LinkedIn](https://www.linkedin.com/in/madhav-rathod-520a19137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 
 <!---
 madhav8452/madhav8452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
